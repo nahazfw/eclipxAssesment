@@ -7,8 +7,8 @@ public class Constants {
 	public static final String CONFIG_FILE_PATH = "config.properties";
 
 	// TestRunner Constants
-	public static final String FEATURE_FILES = "src/test/resources/featureFiles";
-	public static final String GLUE = "stepdefinitions";
+	public static final String FEATURE_FILES = "src/test/resources/Features";
+	public static final String GLUE = "StepDefinitions";
 	public static final String APP_HOOKS = "apphooks";
 
 	// DriverFactoryClass Constants

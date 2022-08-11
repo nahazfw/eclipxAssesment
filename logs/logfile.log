@@ -13,3 +13,52 @@
 11:45:51.088 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
 11:45:51.144 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
 11:45:51.455 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+15:40:52.721 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:40:55.009 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+15:40:58.211 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 1 : User is on the Google Search page and a search box is displayed
+15:40:58.283 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Entered search key: Eclipx
+15:41:01.840 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 2 : user enters Eclipx on the search box
+15:41:05.414 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Clicked on the first linkEclipx Group
+15:41:05.414 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
+15:41:05.451 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
+15:41:05.721 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+15:42:16.026 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:42:18.079 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+15:42:21.266 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 1 : User is on the Google Search page and a search box is displayed
+15:42:21.339 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Entered search key: Eclipx
+15:42:24.760 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 2 : user enters Eclipx on the search box
+15:42:29.116 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Clicked on the first linkEclipx Group
+15:42:29.116 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
+15:42:29.162 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
+15:42:29.480 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+15:44:30.295 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:44:31.959 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+15:44:35.608 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+15:45:41.977 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:45:43.592 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+15:45:46.641 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 1 : User is on the Google Search page and a search box is displayed
+15:45:46.720 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Entered search key: Eclipx
+15:45:49.918 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 2 : user enters Eclipx on the search box
+15:45:54.094 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Clicked on the first linkEclipx Group
+15:45:54.094 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
+15:45:54.132 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
+15:45:54.363 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+15:52:24.944 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:54:11.758 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+15:54:13.835 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+15:54:18.184 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 1 : User is on the Google Search page and a search box is displayed
+15:54:18.270 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Entered search key: Eclipx
+15:54:21.998 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 2 : user enters Eclipx on the search box
+15:54:25.557 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Clicked on the first linkEclipx Group
+15:54:25.557 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
+15:54:25.576 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
+15:54:25.704 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
+16:05:16.157 [main] INFO  com.rp.drivers.DriverFactory - Browser value is : Chrome
+16:05:17.819 [main] INFO  com.rp.drivers.DriverFactory - Launching Chrome Browser
+16:05:20.759 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 1 : User is on the Google Search page and a search box is displayed
+16:05:20.834 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Entered search key: Eclipx
+16:05:23.494 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 2 : user enters Eclipx on the search box
+16:05:26.868 [main] INFO  com.rp.googlesearch.GoogleSearchPage - Clicked on the first linkEclipx Group
+16:05:26.868 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 3 : User clicks on the first link available on the search results
+16:05:26.887 [main] INFO  StepDefinitions.GoogleSearchSteps - Step 4 :Searched Text Eclipx is present in the page.
+16:05:27.058 [main] INFO  apphooks.ApplicationHookClass - Closed Browser
